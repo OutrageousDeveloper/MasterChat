@@ -23,4 +23,4 @@ A public chatting app and hosting platform
 
 
 
-## -DO NOT INSTALL, STILL IN PROGRESS-
+## -DO NOT `CLONE`, STILL IN PROGRESS-
