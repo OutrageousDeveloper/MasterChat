@@ -20,3 +20,7 @@ A public chatting app and hosting platform
 
 - Open terminal in the directory you saved `MCBuild.py` in, the type `./MCBuild.py --delete <server name> <server mod pass>`
 - Confirm deletion by pressing `y` then `enter`
+
+
+
+## -DO NOT INSTALL, STILL IN PROGRESS-
